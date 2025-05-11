@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Nida Qistina</h1>
-<h3 align="center">A dreamer to become frontend developer from Sabah, Malaysia</h3>
+<h3 align="center">I am eager to learn new things and excel on it</h3>
 
-- 🌱 I’m currently learning **Bachelor of science computer (Graphics & multimedia software)**
+- 🌱 I’m currently **A Bachelor student of science computer (Graphics & multimedia software)**
 
 - 📫 How to reach me **nidaqistina@graduate.utm.my**
 
-- ⚡ Fun fact **I think I am confuse**
+- ⚡ Fun fact **I think I am confuse at my 20s**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">www.linkedin.com/in/nida-qistina-abd-wahid-0142b2257
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
