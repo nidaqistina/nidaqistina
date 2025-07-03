@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I think I am confuse at my 20s but I am easger to learn new things**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">www.linkedin.com/in/nida-qistina-abd-wahid-0142b2257
+<p align="left">www.linkedin.com/in/nida-qistina-abd-wahid
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
