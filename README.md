@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nida Qistina</h1>
 <h3 align="center">I am eager to learn new things and excel on it</h3>
 
-- 🌱 I’m currently **A Bachelor student of science computer (Graphics & multimedia software)**
+- 🌱 I’m currently **A student of Bachelor degree of computer science (Graphics & multimedia software)**
 
 - 📫 How to reach me **nidaqistina@graduate.utm.my**
 
