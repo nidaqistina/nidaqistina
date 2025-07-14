@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **nidaqistina@graduate.utm.my**
 
-- ⚡ Fun fact **I think I am confuse at my 20s but I am easger to learn new things**
+- ⚡ Fun fact **I think I am confuse at my 20s but I am eager to learn new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">www.linkedin.com/in/nida-qistina-abd-wahid
